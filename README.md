@@ -1,5 +1,4 @@
-![Discord Presence](https://lanyard.cnrad.dev/api/725115842118811669)](https://discord.com/users/725115842118811669)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/725115842118811669)](https://discord.com/users/725115842118811669)
 <!--
 **6Kazer/6Kazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
